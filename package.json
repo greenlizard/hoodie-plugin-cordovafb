@@ -1,6 +1,6 @@
 {
   "name": "hoodie-plugin-cordovafb",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Cordova Facebook Hoodie plugin",
   "main": "worker.js",
   "dependencies": {
